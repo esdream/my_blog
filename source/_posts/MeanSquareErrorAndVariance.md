@@ -14,7 +14,7 @@ $$MSD = {\sum_{i=0}^{n}(x_i - {\overline x})^2 \over n}$$
 
 **方差(Variance)**的公式如下：
 
-$$Var = {\sum_{i=0}^{n}(x_i - \overline x)}^2 \over n - 1$$
+$$Var = {\sum_{i=0}^{n}(x_i - {\overline x})^2 \over n - 1}$$
 
 ## 两者的共同点与区别
 
