@@ -1,6 +1,6 @@
 # Zucky FU Blog
 
-这是Zucky FU的博客，使用Hexo搭建，主题为Huno。当前版本`为v1.1.0`。
+这是Zucky FU的博客，使用Hexo搭建，主题为yilia。当前版本`为v1.1.1`。
 
 ## 创建前配置
 
@@ -12,6 +12,7 @@
 # 递归拷贝，将主模块和themes中的子模块(submodule)一并拷贝
 $ git clone https://github.com/esdream/my_blog.git --recursive  
 ```
+拷贝完成后，将`config_in_themes`目录下对应主题的`_config.yml`拷贝到`themes`中的主题目录中覆盖源文件。
 
 ## 安装hexo
 
