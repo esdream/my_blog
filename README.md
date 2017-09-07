@@ -14,17 +14,18 @@ $ git clone https://github.com/esdream/my_blog.git --recursive
 ```
 
 ## 安装hexo
+
 ```shell
 $ npm install hexo-cli -g
 ```
 
-### 安装依赖包
+## 安装依赖包
 进入`./my_blog`目录，执行
 ```shell
 $ npm install
 ```
 
-### 使用hexo生成静态文件，测试和部署
+## 使用hexo生成静态文件，测试和部署
 ```shell
 # 生成静态文件
 hexo g

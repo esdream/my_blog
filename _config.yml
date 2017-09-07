@@ -15,6 +15,7 @@ keywords: "machine learning, IT, programmer, developer, Python, JavaScript, C++"
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: esdream.top
+
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -98,3 +99,6 @@ jsonContent:
         excerpt: false
         categories: false
         tags: true
+
+plugins:
+    hexo-math
