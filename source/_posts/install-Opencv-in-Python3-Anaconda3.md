@@ -2,7 +2,10 @@
 title: 在Anaconda3 / Python3环境下安装Opencv
 date: 2017-09-07 10:53:36
 categories: Python
-tags: Python3, OpenCV2, Anaconda3
+tags:
+    - Python3
+    - OpenCV2
+    - Anaconda3
 toc: True
 ---
 ## 问题起源

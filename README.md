@@ -1,6 +1,6 @@
-# Zucky FU Blog
+# Ryan FU Blog
 
-这是Zucky FU的博客，使用Hexo搭建，主题为yilia。当前版本`为v1.1.1`。
+这是Ryan FU的博客，使用Hexo搭建，主题为yilia。当前版本`为v1.1.1`。
 
 ## 创建前配置
 
