@@ -8,7 +8,7 @@ subtitle: Ryan FU的博客
 description:
 author: Ryan FU
 email: conquerfu@gmail.com
-language:
+language: cn
 timezone:
 keywords: "machine learning, IT, programmer, developer, Python, JavaScript, C++"
 
@@ -99,6 +99,3 @@ jsonContent:
         excerpt: false
         categories: false
         tags: true
-
-plugins:
-    hexo-math
