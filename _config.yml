@@ -71,14 +71,14 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: yilia
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
     type: git
     repo: https://github.com/esdream/esdream.github.io
-    branch: master
+    branch: gh-page
 
 # Blog Catalog
 jsonContent:
