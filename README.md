@@ -11,7 +11,6 @@
 ```shell
 $ git clone https://github.com/esdream/my_blog.git 
 ```
-拷贝完成后，将`config_in_themes`目录下对应主题的`_config.yml`拷贝到`themes`中的主题目录中覆盖源文件。
 
 ## 安装hexo
 
