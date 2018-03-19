@@ -78,7 +78,7 @@ theme: next
 deploy:
     type: git
     repo: https://github.com/esdream/esdream.github.io
-    branch: gh-page
+    branch: master
 
 # Blog Catalog
 jsonContent:
